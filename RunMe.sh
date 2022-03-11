@@ -11,7 +11,7 @@ tar -xvf node-v16.14.0-linux-x64.tar.xz
 # add the unpacked node js to path
 set path = (node-v16.14.0-linux-x64/bin $path)
 
-# for convenience, unpack ninjia into node-v16.14.0-linux-x64/bin
+# for convenience, unpack ninja into node-v16.14.0-linux-x64/bin
 cd node-v16.14.0-linux-x64/bin
 
 # download ninja
