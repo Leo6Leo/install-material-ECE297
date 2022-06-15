@@ -33,7 +33,7 @@ Wait until the terminal said you are done! And now you have successfully install
 ✅ 4.3 Done! Enjoy your new theme with our wonderful VHSI map!
 
 # 🥰 Acknoledgement
-❤️ A big thanks to the help provided by our TA Junhao Liao on install process of the customized theme!
+❤️ A big thanks to the help provided by our TA [@Junhao Liao](https://github.com/junhaoliao) on install process of the customized theme!
 
 The theme used here is Materia https://github.com/nana-4/materia-theme, which is open-source and is distributed under the terms of the GNU General Public License, version 2 or later.
 
